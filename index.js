@@ -1,0 +1,3 @@
+module.exports = function crc32 (buf) {
+  // ...
+}

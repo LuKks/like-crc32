@@ -1,7 +1,7 @@
 {
   "name": "like-crc32",
   "version": "1.0.2",
-  "description": "",
+  "description": "Verify the integrity of data using Cyclic Redundancy Check 32",
   "main": "index.js",
   "files": [],
   "scripts": {
